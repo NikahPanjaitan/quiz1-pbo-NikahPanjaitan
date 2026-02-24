@@ -1,0 +1,17 @@
+//12S24041_NIKAH SUCHIA PANJAITAN 
+CHAT GPT
+1.saya akan mengerjakan soal t02 pada pemograman ini, jelaskan tugas ini ngapain
+2. saya hanya mendapatkan gambar inni pada soal yang diberikan
+3. input nya akan memasukakn deret kah?
+4. Input:
+
+Jumlah total data (N).
+Deret nilai (n1, n2, …, n).
+Kode kelompok siswa
+berikut yang di berikan pada soal
+5. saya paham soal nya, lanjut lah ke langkah selanjutnya untuk mengerjakan pemograman atau code nya
+6. ERROR
+7. dimana yang salah
+8. cocok?
+9. sudah? atau masi ada langkah yang perlu di lakukan?
+10. agar tidak terulang di kemudian hari, jelaskan lah apa yang salah tadi dengan t02 yang saya kerjakan

@@ -1,0 +1,12 @@
+//12S24041_NIKAH SUCHIA PANJAITAN 
+CHATGPT
+1. di soal t03, kami dipertahkan
+Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del.
+2. informasi yang saya dapatkansetelah saya cari mengenai laundry del adalah sebagai berikut Dalam rangka memberikan kenyamanan dan kemudahan kepada seluruh mahasiswa Institut Teknologi Del (IT Del), maka dibentuk satu unit layanan “laundry”. Layanan ini bertujuan........
+3. informasi tambahan terkait jadwal terlampir dalam gambar berikut ini
+4. jadi informasi ini semua sesuai dengan perintah soal akan saya kreasikan dan akan saya buat kedalam code pemograman
+5. buatkan code nya
+6. buatkan yang sederhana aja namun mencakup semua informasi yang saya kirimkan,, karena kami juga masih baru berjalan atau masi baru mempelajari pbo ini
+7. jadi pemograman yang kita buat ini akan menjelaskan apa, output apa yang di berikan dan apa input, beserta apa tujuannya
+8. what happened
+9. keren keren

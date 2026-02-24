@@ -1,0 +1,23 @@
+//12S24041_NIKAH SUCHIA PANJAITAN 
+GPT
+1. bantu saya memahami maksud dari soal ini 
+2. soal ini akan saya kerjakan di dalam pemograman java saya 
+3. satukan lah semua code nya untuk saya compile dan menghasilkan output seperti pada soal yang saya kirimkan sebelumnya
+4. Format Inputan berupa Kode menu di lanjut dengan Porsi Butet Perhatikan contoh berikut: Input
+
+NGS 
+[Porsi Butet]
+AP
+[Porsi Butet]
+GG
+[Porsi Butet]
+END
+apa yang dimaksud dengan format inputan ini?
+
+5. oh apakah ini berlaku juga untuk ucok??
+6. jadi skrg yang diminta pada soal kita fokus pada butet dulu?
+7. code yang kamu berikan tadi sudah sesuai dengan inputan yang diberikan soal, yang hanya berfokus pada butet?
+8. untuk pengerjaan nomor 1, saya akan mengerjakan nya disini, apakah sudah benar?
+9. apa yang salah ketika complie
+10. mengapa jadi seperti ini semuanya
+11. mengapa jadi seperti ini semuanya
