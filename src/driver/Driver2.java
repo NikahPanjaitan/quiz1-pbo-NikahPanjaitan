@@ -1,4 +1,4 @@
-//12S24041_NIKAH SUCHIA PANJAITAN
+//12S24041_NIKAH SUCHIA PANJAITANN
 //  public class Driver2 {
 package driver;
 
